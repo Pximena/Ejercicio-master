@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ejercicio</string>
+    <string name="str_toolbar">Pantalla</string>
 </resources>
